@@ -1,0 +1,28 @@
+button{
+    border-radius: 8px;
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 50px 200px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+score{
+    font-weight: bold;
+    font-size: large;
+}
+
+Counter, cps{
+    color: #04AA6D;
+    font-weight: bold;
+    font-size: large;
+}
+
+cpsd{
+    font-weight: bold;
+    font-size: large;
+}
